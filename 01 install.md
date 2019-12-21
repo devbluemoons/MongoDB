@@ -3,8 +3,9 @@
 brew update
 brew install mongodb
 brew services start mongodb
-# OR
-npm install mongodb --save
+# if there is some error message
+# type homebrew command 
+brew doctor
 ```
   
 ###### Window/Linux
