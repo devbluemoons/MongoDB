@@ -1,8 +1,10 @@
 ###### MacOS
-```
+```sh
 brew update
 brew install mongodb
 brew services start mongodb
+# OR
+npm install mongodb --save
 ```
   
 ###### Window/Linux
