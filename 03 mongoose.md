@@ -5,7 +5,7 @@
 yarn add mongoose
 yarn add dotenv # support to use .env file (set config variable)
 
-# check installed library
+# check installed libraries
 yarn list [--depth=number]
 ```
   
