@@ -3,7 +3,7 @@
 ###### install `mongoose` & `dotenv`
 ```sh
 yarn add mongoose
-yarn add dotenv # support to use .env file (config variable)
+yarn add dotenv # support to use .env file (set config variable)
 
 # check installed library
 yarn list [--depth=number]
