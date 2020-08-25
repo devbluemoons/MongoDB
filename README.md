@@ -11,8 +11,8 @@
 brew update
 brew tap mongodb/brew
 brew install mongodb-community[@version]
-brew services start mongodb
-brew services stop mongodb
+brew services start mongodb-community[@version]
+brew services stop mongodb-community[@version]
 # if there is some error message
 # type homebrew command 
 brew doctor
