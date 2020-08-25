@@ -1,2 +1,7 @@
 # MongoDB
-self-study &amp; Ref.
+- [Install](#install)
+  
+  
+---
+
+## Install
