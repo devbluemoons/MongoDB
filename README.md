@@ -9,7 +9,8 @@
 ###### MacOS
 ```sh
 brew update
-brew install mongodb
+brew tap mongodb/brew
+brew install mongodb-community[@version]
 brew services start mongodb
 # if there is some error message
 # type homebrew command 
