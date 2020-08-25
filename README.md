@@ -51,7 +51,7 @@ mongo --version
 ---
   
 ## Mongoose
-- mongoose is ODM(Object Data Modelling) Labrary based MongoDB  
+- mongoose is ODM(Object Data Modelling) Library based MongoDB  
   
 ###### install `mongoose` & `dotenv`
 ```sh
