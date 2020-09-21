@@ -1,7 +1,9 @@
 # MongoDB
 - [Install](#install)
 - [Command](#command)
+- [Feature](#feature)
 - [Constructor](#constructor)
+
 - [Mongoose](#mongoose)
   
 ---
@@ -51,6 +53,12 @@ mongo
 mongo --version
 ```
   
+---
+  
+## Feature 
+###### copy
+###### sharding
+###### ObjectId
 ---
   
 ## Constructor
