@@ -29,6 +29,7 @@ https://www.mongodb.com/download-center/community
 ## Command
 ###### run database
 ```sh
+mongod
 # on installed directory (default)
 mongo 
 ```
@@ -82,4 +83,5 @@ yarn list [--depth=number]
 PORT=4000
 MONGO_URI=mongodb://localhost/test
 ```
-  
+###### not working for permission denied / refused
+[Ref.] https://stackoverflow.com/questions/58034955/read-only-file-system-when-attempting-mkdir-data-db-on-mac
